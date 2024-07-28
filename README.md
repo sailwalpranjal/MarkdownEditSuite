@@ -1,6 +1,6 @@
-# MarkdownEditSuite
+# Markdown_Editor
 
-MarkdownEditSuite is an advanced Markdown editor designed for a seamless and efficient writing experience. Featuring live HTML preview, syntax highlighting, and theme customization, it is ideal for developers, writers, and content creators. 
+Markdown_Editor is an advanced Markdown editor designed for a seamless and efficient writing experience. Featuring live HTML preview, syntax highlighting, and theme customization, it is ideal for developers, writers, and content creators. 
 **This project is currently in development, with some features not fully functional yet. The theme system is nearly complete.**
 
 ## Table of Contents
@@ -32,7 +32,7 @@ MarkdownEditSuite is an advanced Markdown editor designed for a seamless and eff
 
 ## Installation
 
-To run MarkdownEditSuite, ensure the following prerequisites are installed:
+To run Markdown_Editor, ensure the following prerequisites are installed:
 
 - [.NET Framework 4.7.2 or higher](https://dotnet.microsoft.com/download/dotnet-framework)
 - [Visual Studio 2022 ](https://visualstudio.microsoft.com/vs/)
@@ -41,13 +41,13 @@ To run MarkdownEditSuite, ensure the following prerequisites are installed:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/sailwalpranjal/MarkdownEditSuite.git
-   cd MarkdownEditSuite
+   git clone https://github.com/sailwalpranjal/Markdown_Editor.git
+   cd Markdown_Editor
    ```
 
 2. **Open the Project in Visual Studio:**
    - Launch Visual Studio 2022 Professional.
-   - Open the solution file `MarkdownEditSuite.sln`.
+   - Open the solution file `Markdown_Editor.sln`.
 
 3. **Restore NuGet Packages:**
    - In Visual Studio, go to `Tools` > `NuGet Package Manager` > `Package Manager Console`.
@@ -66,7 +66,7 @@ To run MarkdownEditSuite, ensure the following prerequisites are installed:
 
 ### Basic Usage
 
-1. **Open MarkdownEditSuite:**
+1. **Open Markdown_Editor:**
    - Launch the application from Visual Studio or by running the executable.
 
 2. **Editing Markdown:**
@@ -87,8 +87,8 @@ Contributions are welcome! Please follow these steps to contribute:
 1. **Fork the Repository:** Click the "Fork" button at the top right corner of this page.
 2. **Clone Your Fork:** 
    ```sh
-   git clone https://github.com/your-username/MarkdownEditSuite.git
-   cd MarkdownEditSuite
+   git clone https://github.com/your-username/Markdown_Editor.git
+   cd Markdown_Editor
    ```
 3. **Create a Branch:** 
    ```sh
@@ -102,7 +102,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. **Submit a Pull Request:** Navigate to the original repository and click the "New Pull Request" button.
 
 ## Future Plans
-We are excited about the future enhancements we plan to incorporate into MarkdownEditSuite. Here are some of the key areas we aim to improve:
+We are excited about the future enhancements we plan to incorporate into Markdown_Editor. Here are some of the key areas we aim to improve:
 
 - **Improved UI:** Enhance the user interface to provide a superior user experience with an intuitive design and seamless functionality.
 - **Extended Markdown Support:** Incorporate support for additional Markdown syntax and extensions, allowing for more versatile and comprehensive document creation.
@@ -118,7 +118,7 @@ We are excited about the future enhancements we plan to incorporate into Markdow
 - **Accessibility Enhancements:** Implement features to improve accessibility, ensuring the editor is usable by individuals with disabilities.
 - **Localization:** Provide localization support to make the editor accessible to users in different languages and regions.
 - **Comprehensive Documentation:** Expand the documentation to cover all features and functionalities, offering detailed guides and tutorials for users.
-- **Community Engagement:** Foster a community around MarkdownEditSuite, encouraging user feedback and contributions to drive continuous improvement.
+- **Community Engagement:** Foster a community around Markdown_Editor, encouraging user feedback and contributions to drive continuous improvement.
 
 ## Acknowledgements
 
