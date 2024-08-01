@@ -135,7 +135,7 @@ This project is licensed under the terms of the Custom License. For complete det
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please read and follow our [Code of Conduct](CODEOFCONDUCT.md).
 
 ---
 This is my first project in C#. While the theme is nearly complete, some features are not yet fully functional. Your feedback and contributions are appreciated to help improve this project.
