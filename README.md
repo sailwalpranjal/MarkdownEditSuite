@@ -131,7 +131,7 @@ For any questions or feedback, please contact:
 
 ## License
 
-This project is licensed under the terms of the Custom License. For complete details, please refer to the [LICENSE](LICENSE) file.
+This project is licensed under the terms of the Custom License. For complete details, please refer to the [LICENSE](LICENSE.md) file.
 
 ## Code of Conduct
 
